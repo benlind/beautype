@@ -18,7 +18,7 @@ ol,ul,dir,menu,dd{margin-left:40px}
 
 html { height: 100%; width: 100%; }
 body { box-sizing: border-box; font: 100%/1.4em 'Ubuntu', 'PT Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; height: 100%; overflow: hidden; padding: 30px 20px; width: 100%; }
-textarea { background: transparent; border: 0; box-sizing: border-box; color: inherit; display: block; font: inherit; font-size: .875em; height: 100%; max-width: 900px; outline: none; margin: 0 auto; padding: 0 100px; width: 100%; }
+textarea { background: transparent; border: 0; box-sizing: border-box; color: inherit; display: block; font: inherit; font-size: 1em; height: 100%; max-width: 900px; outline: none; margin: 0 auto; padding: 0 100px; width: 100%; }
 
 #controls { bottom: 0; opacity: 0; padding: 30px 15px 15px 30px; position: absolute; right: 0; transition: 0.2s ease; -webkit-transition: 0.2s ease; }
 #controls:hover { opacity: 1; }
